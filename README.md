@@ -1,1 +1,1 @@
-# labs-on-numerical-methods
+#Лабы по численным методам
